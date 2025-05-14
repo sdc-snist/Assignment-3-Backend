@@ -14,13 +14,29 @@ Each file contains:
 - The **solution written just below** the question.
 
 ---
+## ✅ How to Run
 
-## ✅ Instructions
+## Method 1 :
 
 1. **Clone this repo** to your local machine:
    ```bash
-   git clone <repo-link>
-   cd <repo-folder>
+   git clone https://github.com/sdc-snist/Assignment-3-Backend/
+   cd Assignment-3-Backend
 2. **Run the Code**:
    ```bash
    node 1.js
+## Method 2 :
+
+1. **Download this folder as a ZIP** from your class resources or Google Drive.
+
+2. **Extract the ZIP folder** on your computer.
+
+3. **Open the folder in VS Code** or any code editor.
+
+4. **Run each file** using Node.js in your terminal:
+   ```bash
+   node 1.js
+4. Replace **1.js with 2.js, 3.js, or 4.js** to test each question.
+
+
+
