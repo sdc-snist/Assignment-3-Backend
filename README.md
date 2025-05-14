@@ -1,4 +1,4 @@
-# 🧑‍💻 Node.js Beginner Assignment
+# 🧑‍💻 Node.js Assignment
 
 This repository contains **beginner-friendly Node.js coding exercises** to help you understand the basics of creating a server, handling routes, and working with the file system (`fs` module).
 
