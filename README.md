@@ -27,7 +27,7 @@ Each file contains:
    node 1.js
 ## Method 2 :
 
-1. **Download this folder as a ZIP** from your class resources or Google Drive.
+1. **Download this folder as a ZIP** 
 
 2. **Extract the ZIP folder** on your computer.
 
